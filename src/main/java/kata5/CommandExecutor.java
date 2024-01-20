@@ -1,6 +1,5 @@
 package kata5;
 
-import com.sun.net.httpserver.Request;
 import spark.Request;
 import spark.Response;
 
